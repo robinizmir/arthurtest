@@ -1,0 +1,45 @@
+h1 {
+	color: #1f2e2e;
+	background:  #b3cbcb;
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+
+h2 {
+	background:  #d1e0e0;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+h3 {
+	background: #d1e0d9;
+	color: black;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+
+body {
+	background: #c2d6d6;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:  #334d4d;
+	font-weight: 200;
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+
+span {
+	font-size: 1.5em;
+	font-weight: bold;
+	font-style: italic;
+}
+
+div {
+	
+	border-color: #669999;
+	border-width: 2px;
+	border-style: outset;
+	background:  #f0f5f5;
+}
+
+
